@@ -1,4 +1,4 @@
-# pdhxrb-hub
+# Luahub
 The best slap battles script
 # What is this
 A hack for the game slap battles
